@@ -3,6 +3,6 @@ This project is a simple todo list application built using React.js. It allows u
 <img src = "https://github.com/piyuminadee/React-Todo-List/blob/main/Todo.png" >
 
 # Javascript-Todo-List
-<img src = "https://github.com/piyuminadee/React-Todo-List/blob/main/Todo.png" >
+<img src = "https://github.com/piyuminadee/React-Todo-List/blob/main/Screenshot 2024-04-07 212427.png" >
 
 
